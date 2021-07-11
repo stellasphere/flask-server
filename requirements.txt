@@ -1,5 +1,1 @@
-flask==1.1.2
-pillow==8.1.1
-tensorflow-cpu==2.5.0
-requests==2.25.1 # Used in testing.py
-gunicorn==20.1.0
+
